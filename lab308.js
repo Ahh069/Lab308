@@ -96,7 +96,11 @@ console.log(result);
 // Your car’s fuel efficiency is as follows:
 // You have a fuel budget of $175.
 // The average cost of fuel is $3 per gallon.
+
 // At 55 miles per hour, you get 30 miles per gallon.
+// It will take 50 gallons of gas with the amount of $150.00. 
+//It will take 27 hrs for the trip.// This is within the fuel Budget of $175.00.
+
 // let thirtygallon = (1500/30)/ 50 miles
 // console.log(thirtygallon);
 
@@ -107,6 +111,8 @@ console.log(result);
 // console.log(hour1);
 
 // // At 60 miles per hour, you get 28 miles per gallon.
+// It will take 54 gallons of gas with the amount of $160.71. 
+//It will take 25 hrs for the trip.// This is within the fuel Budget of $175.00
 // let eightgallon = (1500/28)/ 54 gallons
 // console.log(eightgallon);
 
@@ -117,7 +123,11 @@ console.log(result);
 // console.log(hour2);
  
 // At 75 miles per hour, you get 23 miles per gallon.
-// let threegallon = (1500/23) 65 gallons
+
+// It will take 65 gallons of gas with the amount of $186.63. 
+//It will take 20 hrs for the trip.// This is not within the fuel Budget of $175.00
+
+// let threegallon = (1500/23)// 65 gallons
 // console.log(threegallon);
 
 // let dollar3 = (62.21*3.00) $186.63 for gas
@@ -125,8 +135,7 @@ console.log(result);
 
 // let hour3=(1500/75) 20 hours
 // console.log(hour3);
-// You have a fuel budget of $175.
-// The average cost of fuel is $3 per gallon.
+
 // Set up a program to answer the following questions:
 // How many gallons of fuel will you need for the entire trip?
 
